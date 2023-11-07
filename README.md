@@ -33,7 +33,6 @@
 
 ![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job.png)
 ![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job_2.png)
-![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job_3.png)
 ![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log.png)
 ![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log_2.png)
 ![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log_3.png)
