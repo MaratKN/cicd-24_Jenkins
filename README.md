@@ -13,6 +13,12 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_job.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_job_2.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_job_3.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_log.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_log_2.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_1_log_3.png)
 
 ---
 
@@ -25,6 +31,12 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job_2.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_job_3.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log_2.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_2_log_3.png)
 
 ---
 
