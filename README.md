@@ -53,3 +53,9 @@
 
 ---
 
+### Задание 4*
+Придумайте способ версионировать приложение, чтобы каждый следующий запуск сборки присваивал имени файла новую версию. Таким образом, в репозитории Nexus будет храниться история релизов.
+
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_3_job.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_3_log.png)
+![alt text](https://github.com/MaratKN/cicd-24_Jenkins/blob/main/img/task_3_nexus.png)
